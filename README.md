@@ -6,7 +6,7 @@ From Zero Repository for doing Python DevOps work
 ## Create a project scaffold
 
 * Create development environment that is cloud-based: 
-###  Colab Notebook
+### Colab Notebook
 ### Github Codespaces
 ### AWS Cloudshell
 ### AWS Cloud9
